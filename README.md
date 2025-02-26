@@ -4,7 +4,7 @@
 * 주제 : 2호선 내부, 외부의 부동산 분석
 * 기간 : 2025.02.20 ~ 2025.02.25
 * 참여 인원
-    - 김민호, 김호준, 지용욱
+    - [김민호](https://github.com/Kkaemii), [김호준](https://github.com/megashot), [지용욱](https://github.com/GitSkyBlue)
 * 기술 스택 : Python, Autogluon
 
 ## 📌 1. 프로젝트 목표
